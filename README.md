@@ -123,11 +123,11 @@ Execution Instructions
    pip install -r requirements.txt
 
 2. Run the notebook:
-   jupyter notebook Master_Thesis_AI_ML.ipynb
+   jupyter notebook Thesis AI_ML.ipynb
 
 Project Structure
 -----------------
-- ΔΙΠΛΩΜΑΤΙΚΗ_AI_ML.ipynb   Main analysis and modeling notebook
-- NISSOS SIFNOS analysis.xlsx   Source dataset
+- Thesis AI_ML.ipynb   Main analysis and modeling notebook
+- Par1.xlsx   Source dataset
 - README.txt                Documentation
 
